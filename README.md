@@ -10,7 +10,7 @@
 # 3. Вывод информации по всем пользователям:
 ![Get all users](https://user-images.githubusercontent.com/108890950/182124433-28204b3e-6afc-45fc-9b40-3c8fd1c0ef5f.JPG)
 
- # 4. Вывод инофрмации по одному пользователю:
+ # 4. Вывод информации по одному пользователю:
  ![Get user](https://user-images.githubusercontent.com/108890950/182124875-28b7f9a8-7c08-457c-9ad9-380311f3a53a.JPG)
 
 <h1 align="center">Примеры найденных багов при использовании запросов в Postman
